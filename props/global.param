@@ -1,0 +1,7 @@
+#Global Properties
+#Sat Sep 09 12:32:16 CST 2017
+version=1.0
+SVM_training=./3rd_party/svm_learn_osx
+disorder_predictor_vsl2=./3rd_party/VSL2.jar
+SVM_classify=./3rd_party/svm_classify_osx
+CDHit=./3rd_party/cd_hit_osx
