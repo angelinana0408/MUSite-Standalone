@@ -1,0 +1,16 @@
+#Training Properties
+#Sat Sep 09 12:32:16 CST 2017
+No.\ of\ boots\ for\ positive/negative\ set=2000
+Number\ of\ negative\ data\ for\ specificity\ estimation=10000
+Frequency\ features?=true
+Padding\ terminals?=true
+SVM\ parameters=-t 2 -g 1 -c 10 -m 256
+KNN\ features?=true
+Disorder\ window\ sizes=1,5,13
+Frequency\ feature\ number=20
+Frequency\ window\ size=13
+KNN\ substitution\ matrix=blosum62
+KNN\ neighbor\ sizes\ (%\ of\ bootstrapped\ sample)=0.25,0.5,1,2,4
+No.\ of\ classifiers\ aggregated=5
+Disorder\ features?=true
+KNN\ window\ sizes=13
